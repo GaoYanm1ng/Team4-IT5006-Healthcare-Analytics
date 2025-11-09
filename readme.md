@@ -1,4 +1,4 @@
-# IT5006 - Milestone 2 - Predicting Length of Stay and Discharge Destination in Hospitals
+# IT5006 - Milestone 3 - Predicting Length of Stay and Discharge Destination in Hospitals
 
 ## Project Overview
 
